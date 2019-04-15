@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWBot", "EchoBot2\WWBot.csproj", "{F72FBB9B-50DD-4866-805D-81030E1FF7E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildWestLib", "WildWestLib\WildWestLib.csproj", "{579E2073-879A-4892-B704-B62CCA1EAE1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72FBB9B-50DD-4866-805D-81030E1FF7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72FBB9B-50DD-4866-805D-81030E1FF7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72FBB9B-50DD-4866-805D-81030E1FF7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72FBB9B-50DD-4866-805D-81030E1FF7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579E2073-879A-4892-B704-B62CCA1EAE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579E2073-879A-4892-B704-B62CCA1EAE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579E2073-879A-4892-B704-B62CCA1EAE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579E2073-879A-4892-B704-B62CCA1EAE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC670F7-951E-49E7-B547-32E5995D721C}
+	EndGlobalSection
+EndGlobal
